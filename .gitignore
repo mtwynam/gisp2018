@@ -168,5 +168,4 @@ fabric.properties
 
 # Extras added by me
 /settlements/
-/.cache/
 /counties/
