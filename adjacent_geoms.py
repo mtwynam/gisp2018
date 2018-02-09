@@ -1,3 +1,7 @@
+"""
+Added a docstring
+"""
+
 import shapely
 from shapely.geometry import Polygon, MultiPolygon, shape
 import fiona
